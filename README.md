@@ -1,13 +1,26 @@
-<h1 align="center">Hi 👋, I'm Himanshu Shukla</h1>
-<h3 align="center">I'm a passionate Full Stack developer. I look for opportunities to test my skills and to improve my development and problem solving skills. I have experience with Front End developement using React Js and backend develpement using Express JS . I want to learn as much as possible and aspire to become the best version of myself.</h3>
+<div align='center'>
+  <h1>Hi👋, I'm Himanshu Shukla</h1>
+  <img src='https://avatars.githubusercontent.com/u/39799265?v=4'/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/himanshu-shukla-bb6b1b192/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
+    </a>
+    <a href='https://himanshushukla55.github.io/'>
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-live">
+    </a>
+  </div>
+</div>
+<div>
+  <h1>🧑‍💻 About Me</h1>
+  <p>I'm a passionate <b>Full Stack developer</b>. I look for opportunities to test my skills and to improve my development and problem solving skills. I have experience with Front End developement using <b>React Js</b> and backend develpement using <b>Express JS</b> . I want to learn as much as possible and aspire to become the best version of myself.</p>
+</div>
+<div>
+  <h1>📚 Portfolio</h1>
+  <h3>You can see all my work here:  <a href='https://himanshushukla55.github.io/'>
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-live">
+    </a></h3>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://himanshushukla55.github.io/](https://himanshushukla55.github.io/)
+## Skills
 
-- 📫 How to reach me **himanshu.shukla55@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshu-shukla-bb6b1b192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-shukla-bb6b1b192" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshushukla55&" alt="himanshushukla55" /></p>
+[![My Skills](https://skillicons.dev/icons?i=react,redux,jest,tailwind,nodejs,mongodb,firebase,html,css,js,figma,github,sass,express&perline=4)](https://skillicons.dev)
