@@ -23,4 +23,4 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,jest,tailwind,nodejs,mongodb,firebase,html,css,js,figma,github,sass,express&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,jest,tailwind,nodejs,mongodb,firebase,html,css,js,figma,github,sass,express&perline=14)](https://skillicons.dev)
